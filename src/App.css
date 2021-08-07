@@ -37,3 +37,10 @@
     transform: translateY(0px);
   }
 }
+a {
+  text-decoration: none;
+}
+body {
+  font-size: 36pt;
+  font-family: 'Source Sans Pro',sans-serif;
+}

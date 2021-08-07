@@ -1,0 +1,22 @@
+.header{
+    background-color: rgb(78, 71, 71);
+    width:100%;
+    height:133px;
+    margin: 0px;    
+}
+
+.header_links{
+    height:100%;
+    max-width: 1328px;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: space-between;
+    justify-self: center;
+
+}
+.header_links a{
+    font-size: 32pt;
+    font-weight: bold;
+    color:white;
+}
