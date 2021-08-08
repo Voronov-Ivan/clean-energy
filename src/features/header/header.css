@@ -1,22 +1,39 @@
-.header{
-    background-color: rgb(78, 71, 71);
-    width:100%;
-    height:133px;
-    margin: 0px;    
+.header {
+    background-color: #cde3f6;
+    width: 100%;
+    height: 133px;
+    margin: 0px;
 }
 
-.header_links{
-    height:100%;
-    max-width: 1328px;
+.header_links {
+    height: 100%;
+    max-width: 1528px;
     display: flex;
     flex-direction: row;
     margin: auto;
     justify-content: space-between;
-    justify-self: center;
-
+    align-items: center;
 }
-.header_links a{
-    font-size: 32pt;
+
+.head_links {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.shop-login {
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+}
+
+.shop-login a {
+    padding: 7px;
+}
+
+a {
+    font-family: 'Calibri bold', sans-serif;
     font-weight: bold;
-    color:white;
+    color: #333;
 }

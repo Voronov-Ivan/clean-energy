@@ -1,0 +1,49 @@
+.footer {
+    background-color: #a1d199;
+    padding: 100px 250px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footer_mail-div {
+    max-width: 745px;
+    text-align: left;
+}
+
+.footer_mail-div input {
+    width: 500px;
+    float: left;
+    padding: 15px 32px;
+    border: none;
+    font-size: 26px;
+    margin-right: 30px;
+}
+
+.search-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footer_mail-div p {
+    font-size: 24px;
+    margin-top: 70px;
+}
+
+.footer_insta-icons {
+    display: flex;
+    flex-direction: column;
+}
+
+.inst-tlg {
+    width: 70%;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+button {
+    height: 60px;
+}

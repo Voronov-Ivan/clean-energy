@@ -1,0 +1,60 @@
+.home {
+    text-align: left;
+    margin-bottom: 160px;
+}
+
+.hello-text {
+    display: flex;
+    width: 69%;
+    margin-bottom: 320px;
+}
+
+.advantages-and-disadvantages h3 {
+    margin: 0;
+}
+
+.advantages-and-disadvantages {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 160px;
+    background-color: #cde3f6;
+}
+
+.advantages-and-disadvantages_text {
+    max-width: 560px;
+    background-color: white;
+}
+
+.left-text {
+    padding-right: 100px;
+}
+
+.right-text {
+    padding-left: 100px;
+}
+
+.sun-info {
+    width: 745px;
+    display: flex;
+    flex-direction: column;
+}
+
+.decor-rect {
+    height: 100%;
+    content: " ";
+}
+
+.sun-panels h3 {
+    margin-top: 100px;
+}
+
+.sun-panels .plus-vs-minus {
+    text-align: center;
+}
+
+.plus-vs-minus_punkts {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

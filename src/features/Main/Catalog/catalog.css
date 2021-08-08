@@ -1,0 +1,36 @@
+.catalog {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 100px 0;
+}
+
+.product-container {
+    max-width: 400px;
+    margin: 20px 50px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.product-description {
+    margin: 10px 0;
+    font-size: 30px;
+}
+
+.product-price {
+    margin: 20px 0;
+    font-weight: 600;
+}
+
+.product-description {
+    display: inline-block;
+}
+
+.product-image {
+    width: 428px;
+}
+
+.product-title {
+    margin-bottom: 0px;
+}
